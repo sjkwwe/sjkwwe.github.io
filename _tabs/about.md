@@ -11,4 +11,11 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+***
+
+ |:이름:|:남철현:|
+ |:생년월일:|:1992. 9. 3.:|
+ |:E-Mail:|:sjkwwe@gmail.com:|
+ |:전공분야:|:컴퓨터 공학:| 
+ 
+***
